@@ -1,16 +1,15 @@
 # eco_pilot
 
-A new Flutter project.
+The Eco-Pilot Mobile App is a solution developed for CODESPRINT 2025.
 
-## Getting Started
+The project addresses Problem Statement: “Build a mobile application that calculates and visualizes a user’s daily carbon emissions from travel, food, and energy usage, offering tips for reduction.”
 
-This project is a starting point for a Flutter application.
+The app is built on a modern, fast stack: 
+  Front-End (Mobile): Flutter, Dart.
+  Back-End/Data: Firebase Firestore.
+  APIs & Libraries: Firebase Core API, firebase_core, firebase_auth, cloud_firestore.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Future scalability includes:
+  AI Integration: Use LLMs (e.g., Gemini) to suggest low-carbon food swaps.
+  Corporate Gamification: Expand to enterprise/university dashboards.
+  API Integration: Connect directly to Smart Home Energy APIs.
