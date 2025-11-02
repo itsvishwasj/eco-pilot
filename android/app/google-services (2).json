@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2324228389",
+    "project_id": "eco-pilot-hackathon",
+    "storage_bucket": "eco-pilot-hackathon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2324228389:android:6dc22e06da7c7f00f712cc",
+        "android_client_info": {
+          "package_name": "com.example.eco_pilot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP53kb5RKlhznB2_FkwG4O6qr6ej8bky4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
